@@ -12,6 +12,13 @@ document** — not from the model's general knowledge.
 
 This is the core pattern behind most "chat with your docs" AI products.
 
+## 🌐 Live demo
+There's a web version (`streamlit_app.py`) you can run in the browser:
+```bash
+streamlit run streamlit_app.py
+```
+**Live link:** _[add your Streamlit Cloud URL here after deploying]_
+
 ## Tech
 - **Python**
 - **Anthropic Claude** — answer generation
